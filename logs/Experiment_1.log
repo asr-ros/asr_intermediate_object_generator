@@ -1,0 +1,183 @@
+
+Experiment_1 Log file
+Timestamp for the Log Fri Jan 22 14:50:08 2016
+
+
+Intermediate Objects for The Domain 
+PlateDeep : 37.4308
+
+
+Scene part_1
+
+Object CoffeeBox
+Pos Var 0.00503475
+Presence in scene 1
+AverageDistanceToOtherObjects 0.213006
+Normalized Pos 0.111112
+Normalized distance 0.358705
+Rank value 14.7878
+
+Object Cup
+Pos Var 0.0961815
+Presence in scene 1
+AverageDistanceToOtherObjects 0.205318
+Normalized Pos 1.1
+Normalized distance 0.1
+Rank value 13.9091
+
+Object PlateDeep
+Pos Var 0.00401057
+Presence in scene 1
+AverageDistanceToOtherObjects 0.235035
+Normalized Pos 0.1
+Normalized distance 1.1
+Rank value 13.9091
+
+
+Scene part_2
+
+Object CoffeeFilters2
+Pos Var 0.112486
+Presence in scene 1
+AverageDistanceToOtherObjects 0.251057
+Normalized Pos 0.779458
+Normalized distance 0.386684
+Rank value 6.86903
+
+Object PlateDeep
+Pos Var 0.0682864
+Presence in scene 1.17391
+AverageDistanceToOtherObjects 0.241143
+Normalized Pos 0.1
+Normalized distance 0.1
+Rank value 23.5217
+
+Object VitalisSchoko
+Pos Var 0.133338
+Presence in scene 1
+AverageDistanceToOtherObjects 0.275724
+Normalized Pos 1.1
+Normalized distance 1.1
+Rank value 4.81818
+
+Experiment_1 Log file
+Timestamp for the Log Fri Jan 22 14:56:55 2016
+
+
+Intermediate Objects for The Domain 
+PlateDeep : 37.4308
+
+
+Scene part_1
+
+Object CoffeeBox
+Pos Var 0.00503475
+Presence in scene 1
+AverageDistanceToOtherObjects 0.213006
+Normalized Pos 0.111112
+Normalized distance 0.358705
+Rank value 14.7878
+
+Object Cup
+Pos Var 0.0961815
+Presence in scene 1
+AverageDistanceToOtherObjects 0.205318
+Normalized Pos 1.1
+Normalized distance 0.1
+Rank value 13.9091
+
+Object PlateDeep
+Pos Var 0.00401057
+Presence in scene 1
+AverageDistanceToOtherObjects 0.235035
+Normalized Pos 0.1
+Normalized distance 1.1
+Rank value 13.9091
+
+
+Scene part_2
+
+Object CoffeeFilters2
+Pos Var 0.112486
+Presence in scene 1
+AverageDistanceToOtherObjects 0.251057
+Normalized Pos 0.779458
+Normalized distance 0.386684
+Rank value 6.86903
+
+Object PlateDeep
+Pos Var 0.0682864
+Presence in scene 1.17391
+AverageDistanceToOtherObjects 0.241143
+Normalized Pos 0.1
+Normalized distance 0.1
+Rank value 23.5217
+
+Object VitalisSchoko
+Pos Var 0.133338
+Presence in scene 1
+AverageDistanceToOtherObjects 0.275724
+Normalized Pos 1.1
+Normalized distance 1.1
+Rank value 4.81818
+
+Experiment_1 Log file
+Timestamp for the Log Sun Jan 24 14:20:54 2016
+
+
+Intermediate Objects for The Domain 
+PlateDeep : 37.4308
+
+
+Scene part_1
+
+Object CoffeeBox
+Pos Var 0.00503475
+Presence in scene 1
+AverageDistanceToOtherObjects 0.213006
+Normalized Pos 0.111112
+Normalized distance 0.358705
+Rank value 14.7878
+
+Object Cup
+Pos Var 0.0961815
+Presence in scene 1
+AverageDistanceToOtherObjects 0.205318
+Normalized Pos 1.1
+Normalized distance 0.1
+Rank value 13.9091
+
+Object PlateDeep
+Pos Var 0.00401057
+Presence in scene 1
+AverageDistanceToOtherObjects 0.235035
+Normalized Pos 0.1
+Normalized distance 1.1
+Rank value 13.9091
+
+
+Scene part_2
+
+Object CoffeeFilters2
+Pos Var 0.112486
+Presence in scene 1
+AverageDistanceToOtherObjects 0.251057
+Normalized Pos 0.779458
+Normalized distance 0.386684
+Rank value 6.86903
+
+Object PlateDeep
+Pos Var 0.0682864
+Presence in scene 1.17391
+AverageDistanceToOtherObjects 0.241143
+Normalized Pos 0.1
+Normalized distance 0.1
+Rank value 23.5217
+
+Object VitalisSchoko
+Pos Var 0.133338
+Presence in scene 1
+AverageDistanceToOtherObjects 0.275724
+Normalized Pos 1.1
+Normalized distance 1.1
+Rank value 4.81818

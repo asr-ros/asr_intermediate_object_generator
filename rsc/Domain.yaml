@@ -1,0 +1,6 @@
+RankingMethod : 1
+Alpha : 1
+Beta : 1
+Gamma : 1
+GainValueThreshold : 0.2
+DomainName : "Test"
