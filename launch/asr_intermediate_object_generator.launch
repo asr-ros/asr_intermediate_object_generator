@@ -8,6 +8,6 @@
        <param name="AutomatPath" value="$(find asr_state_machine)/rsc/IntermediateObject_XXX.xml"/>
        <param name="LogPath" value="$(find asr_intermediate_object_generator)/logs/"/>
        <!-- XXX will be replaced with /rp_ism_node/dbfilename -->
-       <param name="NBVPath" value="$(find world_model)/rsc/IntermediateObject_XXX.xml"/>
+       <param name="NBVPath" value="$(find asr_world_model)/rsc/IntermediateObject_XXX.xml"/>
     </node>   
 </launch>
