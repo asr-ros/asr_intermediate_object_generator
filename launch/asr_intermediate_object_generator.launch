@@ -3,7 +3,7 @@
     <node name="asr_intermediate_object_generator" pkg="asr_intermediate_object_generator" type="asr_intermediate_object_generator" output="screen">
        <rosparam command="load" file="$(find asr_intermediate_object_generator)/rsc/Domain.yaml" />
        <!-- Needed to get the dbfilename -->
-       <rosparam file="$(find recognizer_prediction_ism)/rsc/scene_recognition.yaml"/>
+       <rosparam file="$(find asr_recognizer_prediction_ism)/rsc/scene_recognition.yaml"/>
        <!-- XXX will be replaced with /rp_ism_node/dbfilename -->
        <param name="AutomatPath" value="$(find asr_state_machine)/rsc/IntermediateObject_XXX.xml"/>
        <param name="LogPath" value="$(find asr_intermediate_object_generator)/logs/"/>
