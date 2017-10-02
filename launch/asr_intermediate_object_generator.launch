@@ -1,7 +1,7 @@
 <launch>
     <env name="ROSCONSOLE_CONFIG_FILE" value="$(find asr_intermediate_object_generator)/log/rosconsole.config" />
     <node name="asr_intermediate_object_generator" pkg="asr_intermediate_object_generator" type="asr_intermediate_object_generator" output="screen">
-       <rosparam command="load" file="$(find asr_intermediate_object_generator)/rsc/Domain.yaml" />
+       <rosparam command="load" file="$(find asr_intermediate_object_generator)/param/Domain.yaml" />
        <!-- Needed to get the dbfilename -->
        <rosparam file="$(find asr_recognizer_prediction_ism)/param/scene_recognition.yaml"/>
        <!-- XXX will be replaced with /rp_ism_node/dbfilename -->
